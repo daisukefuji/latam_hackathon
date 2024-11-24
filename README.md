@@ -11,3 +11,6 @@ export SAMBANOVA_API_KEY = "your api key" # for bash
 python adb_screen.py
 or
 pytest test_android_app.py
+
+# Demo
+![demo GIF](assets/demo.gif)
